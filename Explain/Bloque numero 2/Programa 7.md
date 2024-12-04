@@ -1,4 +1,4 @@
-# Programa 7.- Prog. que colicite la edad e indique si puede entrar a un bar.
+# Programa 7.- Programa. que colicite la edad e indique si puede entrar a un bar.
 ##  Fecha: 24/10/2024
 ### Realizado por: Edson Raymundo Ruvalcaba Marin. 
 ``` python
