@@ -4,4 +4,4 @@
 ### Realizado por: Edson Raymundo Ruvalcaba Marin. 
 - La adición permite sumar cadenas de texto, con esto puedes ecribir un mensaje por partes y solo agregando un `+` al final de cada `"` puedes juntar todas las cadenas
 ``` python
-print("Mi"+ "nombre"+ "es" "Edinguer")
+print("Mi"+ "nombre"+ "es" "Edson")
