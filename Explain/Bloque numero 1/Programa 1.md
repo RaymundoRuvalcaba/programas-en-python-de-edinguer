@@ -1,4 +1,4 @@
-# P1.- Print con tu nombre
+# Programa 1.- Print con tu nombre
 ## Fecha: 06/10/2024
 ### Realizado por: Edson Raymundo Ruvalcaba Marin
 
