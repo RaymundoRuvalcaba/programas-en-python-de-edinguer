@@ -1,4 +1,4 @@
-# P7.-calcula el area y el perimetro de un circulo ingresando el valor del radio por el usuario.
+# Programa 7.-calcula el area y el perimetro de un circulo ingresando el valor del radio por el usuario.
 ## Fecha: 15/10/2024
 ### Realizado por: Edson Raymundo Ruvalcaba Marin. 
 - Con la función `input` solicitamos el valor del radio
