@@ -1,4 +1,4 @@
-# P10.- Programa que utiliza el UNICODE
+# Programa 10.- Programa que utiliza el UNICODE
 ## Fecha 17/10/2024
 ### Realizado por Edson Raymundo Ruvalcaba Marin. 
 - El UNICODE sirve para crearcaracteres especiales como emojis.
