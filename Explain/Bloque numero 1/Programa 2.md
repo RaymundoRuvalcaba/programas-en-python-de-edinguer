@@ -1,4 +1,4 @@
-# Programa2.- Solicitar nombre e iprimir mensaje personalizado
+# Programa 2.- Solicitar nombre e iprimir mensaje personalizado
 ## Fecha: 06/10/2024
 ### Realizado por: Edson Raymundo Ruvalcaba Marin.
 
