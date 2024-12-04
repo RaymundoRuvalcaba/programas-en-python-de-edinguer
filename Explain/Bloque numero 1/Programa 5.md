@@ -1,4 +1,4 @@
-# Programa 6.- Operaciones aritmeticas basicas
+# Programa 5.- Operaciones aritmeticas basicas
 ## Fecha: 15/10/2024
 ### Realizado por: Edson Raymundo Ruvalcaba Marin.
 - La variable `float` imprime números con punto decimal.
