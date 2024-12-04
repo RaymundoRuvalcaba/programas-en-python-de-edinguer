@@ -1,4 +1,4 @@
-# P6.- Calcular el area de un triangulo
+# Programa 6.- Calcular el area de un triangulo
 ## Fecha: 15/10/2024
 ### Elaborado por: Edson Raymundo Ruvalcaba Marin. 
 - Con la función `input` pedimos tanto la base como la altura de un triangulo para asi  sacar su area.
